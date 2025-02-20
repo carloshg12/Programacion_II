@@ -1,0 +1,4 @@
+Sporting_Huelva 0 Atlético_Madrid 1
+Real_Betis_F 2 Atlético_Madrid 2
+Real_Betis_F 1 Sporting_Huelva 1
+Atlético_Madrid 1 Sporting_Huelva 0
