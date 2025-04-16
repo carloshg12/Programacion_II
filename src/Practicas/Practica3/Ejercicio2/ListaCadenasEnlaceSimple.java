@@ -182,7 +182,7 @@ public class ListaCadenasEnlaceSimple implements ListaCadenas{
         return sb.toString();
     }
 
-    // Método auxiliar para obtener el nodo en una posición específica
+    // Metodo auxiliar para obtener el nodo en una posición específica
     private Nodo obtenerNodo(int indice) {
         Nodo actual = primero;
         for (int i = 0; i < indice; i++) {
