@@ -1,9 +1,9 @@
-package Practicas.Practica3.Ejercicio4_Falta; // Indica aquí el nombre del paquete que utilizas.
+package Practicas.Practica3.Ejercicio4; // Indica aquí el nombre del paquete que utilizas.
 
-import Practicas.Practica3.Ejercicio3_Falta.TrabajoImpresora;
+import Practicas.Practica3.Ejercicio3.TrabajoImpresora;
 
 public class ColaTrabajosPrueba {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         ColaTrabajos c = new ColaTrabajosEnlaceSimple();
 
         System.out.println("La cola inicialmente está vacía:\n  " + c);
@@ -97,5 +97,4 @@ public class ColaTrabajosPrueba {
                     + " pero se ha obtenido " + cola + "\n");
         }
     }
-*/
 }

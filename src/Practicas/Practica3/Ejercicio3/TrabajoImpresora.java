@@ -1,4 +1,4 @@
-package Practicas.Practica3.Ejercicio3_Falta;  // Indica aquí el nombre del paquete que utilizas.
+package Practicas.Practica3.Ejercicio3;  // Indica aquí el nombre del paquete que utilizas.
 
 public class TrabajoImpresora {
     // Atributos:
